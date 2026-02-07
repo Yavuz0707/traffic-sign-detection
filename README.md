@@ -148,7 +148,7 @@ results[0].show()
 
 ## 🤝 Katkıda Bulunma
 
-Bu proje BTK Akademi Görüntü İşleme kursunda geliştirilmiştir. İyileştirme önerileri ve katkılarınızı bekliyoruz!
+İyileştirme önerileri ve katkılarınızı bekliyoruz!
 
 ## 📞 İletişim
 
